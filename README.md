@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1179074716029640705/1644013269/1500x500">
+  <img src="https://cdn.discordapp.com/attachments/914190462120755240/941747606013493278/b.png">
 </h1>
 
 - To Frontend i use:
