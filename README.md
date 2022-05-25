@@ -11,4 +11,5 @@ I'm borox, python enjoyer
 </a>
 <br />
 
-![](https://lanyard-profile-readme.vercel.app/api/314424536256872449)
+<img align='right' src="https://lanyard-profile-readme.vercel.app/api/314424536256872449?bg=00000000">
+
