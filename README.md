@@ -9,6 +9,6 @@ I'm borox, python enjoyer
 <a href="https://www.borox.me/" target="_blank">
   <img align="left" width="22px" alt="Website" src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
-<img align='right' src="https://spotify-recently-played-readme.vercel.app/api?user=31m5pdjuimsrdamcrgjvqk3h37au">
+<img align='left' src="https://spotify-recently-played-readme.vercel.app/api?user=31m5pdjuimsrdamcrgjvqk3h37au">
 <img align='right' src="https://lanyard-profile-readme.vercel.app/api/314424536256872449?bg=00000000">
 
