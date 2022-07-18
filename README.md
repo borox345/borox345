@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm borox, hobbyist developer.
+I'm borox, hobbyist python developer.
 
 Follow me on socials:
 </br>
