@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm borox, hobbyist python developer.
+I'm borox, hobbyist python developer and sometimes FiveM resources creator.
 
 Follow me on socials:
 </br>
