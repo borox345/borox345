@@ -1,4 +1,4 @@
-### Hi there👋
+### sup👋
 I'm leon, python & web fullstack.
 <a href="https://borox.site">Website</a>
 
